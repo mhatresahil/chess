@@ -13,6 +13,8 @@ We are planning to implement this chess960 version in our code: https://github.c
 
 For monte carlo implementation, we took help from https://www.geeksforgeeks.org/ml-monte-carlo-tree-search-mcts/
 
+For stockfish and evaluation implementation: https://python-chess.readthedocs.io/en/latest/engine.html
+
 To use the pychess library : https://python-chess.readthedocs.io/en/latest/
 
 Installation :
