@@ -20,7 +20,8 @@ To use the pychess library : https://python-chess.readthedocs.io/en/latest/
 Installation :
 We used python code. To run the code we need to install the dependencies: 
 Write "pip install chess" in command prompt to install the chess library
-
+then "brew install stockfish" for evaluation result. (in mac)
+If you are using any other operating system, download stockfish for your os from https://stockfishchess.org/download/
 
 
 Explanation of how to run the computer experiments:
