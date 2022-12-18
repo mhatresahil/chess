@@ -3,8 +3,8 @@
 We have uploaded several version of the game. Each new file has new criteria added. 
 The final codes can be found from the folder "Final Codes"
 
-There are 3 files where one file generates histogram data of 100 games of 5 different board arrangements. Other two files contain the  separate contribution of 
-two collaborators. 
+There will be files where one file generates histogram data of 100 games of 5 different board arrangements. Other two files contain the  separate contribution of 
+two collaborators. If any more files are found, then the details are also given in the commit. 
 We have implemented AI vs AI, AI vs NN, Human vs AI , Tree vs AI and Tree vs Tree chess game. Users will choose which one they want to play in which instance. 
 They will also get option to customize the board. 
 We didn't implement human vs human because it was not required, but it should be really easy now.
