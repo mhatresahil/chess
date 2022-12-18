@@ -1,3 +1,6 @@
 This folder contains 3 files. 
 1 is for the histogram .
 Other two are the same project including neural network and different evaluation function for each team member
+
+
+In the histogram nn shaily file, there is a mistake in the last graph. the red line was for the neural network. I labelled it mistakenly
